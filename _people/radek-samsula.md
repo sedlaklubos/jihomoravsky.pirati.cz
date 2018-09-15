@@ -20,7 +20,7 @@ supporting:
 - Cyklodopravu ve městě i mimo něj
 - Svobodný internet jako zdroj informací
 notsupporting:
-- Nezodpovědné nákldánání s veřejným majetkem
+- Nezodpovědnému a bezúčelnému nakládání s veřejným majetkem 
 - Prosazování osobních zájmů v politice na jakékoliv úrovni
 - Plýtvání přírodními zdroji včetně vody
 reason: Demokracie je diskuze a já jsem připravený věcné a konstruktivně diskutovat se všemi, kdo o to budou mít zájem.
